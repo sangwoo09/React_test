@@ -9,6 +9,11 @@
 
 <br>
 
+## 機能実装
+- Create機能
+- Update機能
+- Delete機能
+
 ## 画面機能
 - メイン画面
 - Create画面
